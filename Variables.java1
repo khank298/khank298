@@ -1,0 +1,42 @@
+package FirstHand;
+public class variables{
+
+//type_of_containername_of_container=value
+ 
+  public static void main(String[] args) {byte age =22;
+  short salary =30000;
+  int pincode =421302;
+  long contactno=8080808080L;
+  float percentage =98.9f;
+  double randomdata=25356865.988D;
+  boolean IsIndian =true;
+  char section='D';
+  String name="2jk34t2i7346bkjhdkjsgdshg 6776";
+  System.out.println("age");
+  System.out.println("salary");
+  System.out.println("contactno");
+  
+  System.out.println("percentage"); 
+  System.out.println("randomdata");
+  System.out.println("IsIndian");
+  System.out.println("section");
+  System.out.println("name");
+System.out.println(age + " " +contactNo+" " +pincode)
+ }
+}
+ abcd123 -- allowed
+		  123abcd -- not allowed
+		  _abcd123 -- allowed
+		  $abcd123 -- allowed
+		  1abcd_ -- not allowed
+ * 
+ * */
+//1.  A-Z , a-z, 0-9, _ , $
+// ! @ # -- not allowed
+// 2. shouldn't have a space in between
+// 3. It shouldn't start with a number
+// 4. Any reserved keyword is not allowed
+// Variable is a container that is used to store some data
+// we need to give a unique name to a variable. 
+// to store anything, we need a container
+// for different type of things, we need different type of containers
