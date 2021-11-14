@@ -1,0 +1,16 @@
+package FirstHand_Nov_13;
+public class Hello World {
+  public static void main {(String args[]) { // function/method
+		System.out.println("Hello World!");
+		System.out.println("Welcome");
+		System.out.print("My name is Khushnuma");
+   }
+}
+
+/*
+ * package
+ * class
+ * public
+ * public static void main (String args[]) {
+ * function/method
+ */
